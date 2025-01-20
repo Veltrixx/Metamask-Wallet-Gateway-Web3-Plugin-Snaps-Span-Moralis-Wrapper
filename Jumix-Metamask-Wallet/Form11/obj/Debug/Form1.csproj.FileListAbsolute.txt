@@ -1,0 +1,2 @@
+D:\GithubNew\2\Metamask-Wallet4\Metamask4\Jumix-Metamask-Wallet\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\2\Metamask-Wallet4\Metamask4\Jumix-Metamask-Wallet\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
